@@ -21,5 +21,7 @@ Tecnologias que foram usadas na construção do projeto:
 
 Feito com carinho por Mari Prugovechi. :sparkling_heart:
 
-![Bagde](https://img.shields.io/static/v1?label=&message=@mariprugovechi&color=7159c1&style=for-the-badge&logo=instagram) ![Bagde](https://img.shields.io/static/v1?label=&message=marianna prugovechi&color=7159c1&style=for-the-badge&logo=linkedin)
-
+<div>
+<a href="http://instagram.com/mariprugovechi" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marianna-prugovechi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
